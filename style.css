@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'iconsax';
-  src:  url('fonts/iconsax.eot?yjegnn');
-  src:  url('fonts/iconsax.eot?yjegnn#iefix') format('embedded-opentype'),
-    url('fonts/iconsax.ttf?yjegnn') format('truetype'),
-    url('fonts/iconsax.woff?yjegnn') format('woff'),
-    url('fonts/iconsax.svg?yjegnn#iconsax') format('svg');
+  font-family: 'starwars';
+  src:  url('//warstarsyoda.github.io/icons/iconsax.eot?yjegnn');
+  src:  url('//warstarsyoda.github.io/icons/iconsax.eot?yjegnn#iefix') format('embedded-opentype'),
+    url('//warstarsyoda.github.io/icons/iconsax.ttf?yjegnn') format('truetype'),
+    url('//warstarsyoda.github.io/icons/iconsax.woff?yjegnn') format('woff'),
+    url('//warstarsyoda.github.io/icons/iconsax.svg?yjegnn#iconsax') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 
 .isax {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'iconsax' !important;
+  font-family: 'starwars' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
